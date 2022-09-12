@@ -18,6 +18,14 @@ h4{
 	right: -10px;
 	left: 5px;
 }
+h6{
+	font-size: 10px;
+	position: relative;
+	bottom: 1rem;
+	right: -10px;
+	left: 5px;
+
+}
 .LinkShort{
 	position: absolute;
 	border-sizing: border-box;
