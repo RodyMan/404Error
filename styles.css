@@ -1,7 +1,7 @@
 body{
 	margin:0rem;
 	padding:0rem;
-	background-color: black;
+	background-image:url(halloween.jpg);
 }
 img{
 	position: relative;
@@ -10,6 +10,7 @@ img{
 h1{
 	position: relative;
 	top: -3.5rem;
+	color: white;
 }
 h4{
 	font-size: 15px;
@@ -17,6 +18,7 @@ h4{
 	bottom: 3.2rem;
 	right: -10px;
 	left: 5px;
+	color: white;
 }
 .LinkShort{
 	position: absolute;
@@ -24,10 +26,10 @@ h4{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background-color: #D3D3D3;
+	background: rgb(204, 135, 44,0.5);
+	border: 3px solid rgb(255, 213, 0);
 	height: 10rem;
 	width: 25rem;
 	padding: 7rem 3rem;
-	border: 3px solid white;
 	border-radius: 2rem;
 }
